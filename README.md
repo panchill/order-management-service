@@ -4,7 +4,7 @@ Educational Java backend project.
 
 ## Tech Stack
 - Java
-- Gradle (TBD)
+- Gradle
 
 ## Roadmap
 - [ ] Domain models
