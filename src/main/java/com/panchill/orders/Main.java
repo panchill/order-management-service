@@ -1,6 +1,12 @@
-package com.panchill.orders;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+package com.panchill.orders;
+
+import com.panchill.orders.model.OrderItem;
+import com.panchill.orders.model.Product;
+
+import java.math.BigDecimal;
+
 public class Main {
     static void main() {
+
     }
 }
